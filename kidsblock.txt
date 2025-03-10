@@ -1,1 +1,5 @@
 127.0.0.1 youtube.com
+127.0.0.1 m.youtube.com
+127.0.0.1 s.youtube.com
+127.0.0.1 0.client-channel.google.com	
+
